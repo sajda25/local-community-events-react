@@ -50,7 +50,7 @@ A modern React-based web application for discovering, exploring, and joining loc
 Make sure you have the following installed on your system:
 
 - Node.js (v16 or higher)
-- npm or yarn
+- npm
 
 ### Installation
 
@@ -228,8 +228,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is open source and available under the MIT License.
 
 ---
-
-**Made with ❤️ for the StarLabs Frontend Developer Intern Assignment**
 
 ### Quick Start Commands
 
