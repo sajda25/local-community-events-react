@@ -164,6 +164,26 @@ local-events-app/
 
 ## 📸 Screenshots
 
+### Home Page – Explore Events
+
+![Home Page](./screenshot-home.png)
+_Browse and filter through community events_
+
+### Event Detail Page
+
+![Event Detail](./screenshot-detail.png)
+_View comprehensive event information_
+
+### RSVP Confirmation
+
+![RSVP Confirmation](./screenshot-confirmation.png)
+_Registration confirmation with next steps_
+
+### Create Event Form
+
+![Create Event](./screenshot-create.png)
+_Easy-to-use event creation form_
+
 ### Home Page - Explore Events
 
 The main landing page displays all community events in a beautiful grid layout with search and filter capabilities.
